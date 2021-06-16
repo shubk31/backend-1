@@ -1,0 +1,5 @@
+{
+    "dbURI": "mongodb://localhost:27017/newapi",
+    "jwtsecret": "E9CBAA9D0CC134E5D4D2AD26DCCD9DF34828033CF7D32E4E7DDE7899B642D144",
+    "StripeAPIKey": "sk_test_51Ix3lDSEcJPFvXYW1WUQukWHL7kYMhlZdkKJDLZaHae4rddk08TKsamIx1EnkV1skiKH4nhwg0eSqSbw56psjNnG009xJxdBVp"
+}
