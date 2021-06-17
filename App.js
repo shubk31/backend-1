@@ -13,7 +13,7 @@ const auth = require('./middlewares/auth');
 
 
 //--------------------------Database--------------------------------------
-mongoose.connect("mongodb+srv://root12:iamgroot@cluster0.8u8mz.mongodb.net/new12?retryWrites=true&w=majority", { useCreateIndex: true, useNewUrlParser: true, useUnifiedTopology: true })
+mongoose.connect("mongodb+srv://username:password@cluster0.8u8mz.mongodb.net/new12?retryWrites=true&w=majority", { useCreateIndex: true, useNewUrlParser: true, useUnifiedTopology: true })
     .then(() => {
         console.log('database connected successfully');
     })
